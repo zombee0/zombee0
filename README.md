@@ -2,5 +2,5 @@
 
   ### Stay hungry, Stay foolish! 👋
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zombee0&show_icons=false&theme=radical&include_all_commits=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zombee0&theme=github_dark" />
 </div>
